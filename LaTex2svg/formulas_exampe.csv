@@ -1,2 +1,12 @@
-06-north.svg§N \; (\alpha+2)^{\circ}\; \left(2\cdot\beta\right)\,.\,\left(\frac{\delta-273}{2}\right)
-06-east.svg§E \; (\alpha+2)^{\circ}\; \left(2\cdot\beta\right)\,.\,\left(\frac{\delta-273}{2}\right)
+01-north.svg§N \; (\varepsilon + \zeta)\cdot 6,5\,^{\circ}\; (\alpha+\beta+\gamma+\delta)\,.\,(\gamma+\delta+\zeta+1)\cdot 25
+01-east.svg§E \; (\alpha+\delta+1)^{\circ}\; (\gamma+\varepsilon)\,.\,(\beta+\zeta+49)\cdot 5
+02-north.svg§N \; (\gamma + \nu -2)^{\circ}\; \left(\frac{\alpha}{1000}\right)\,.\,(\varepsilon+\zeta+6)
+02-east.svg§E \; \sigma^{\circ}\; \left(\rho+4\right)\,.\,(\beta+\delta+\lambda+37)
+03-north.svg§N \; (\zeta - \alpha + 3)^{\circ}\; \left(\varepsilon-\delta+3\right)\, . \,(3\cdot\gamma-1)
+03-east.svg§E \; (\varepsilon-\beta+7)^{\circ}\; \left(\beta-\delta-8\right)\,.\,(20\cdot\delta+2)
+04-north.svg§N \; (\alpha+4)^{\circ}\; \left(\delta-\varepsilon+3\right)\, . \,(6\cdot\gamma+2\cdot\beta+5)
+04-east.svg§E \; (\beta-12)^{\circ}\; \left(\frac{\alpha}{4}\right)\,.\,(8\cdot\gamma-5)
+05-north.svg§N \; (\gamma-6)^{\circ}\; \left(\frac{\beta+\gamma}{2}\right)\, . \,(2\cdot\varepsilon+\zeta+3)
+05-east.svg§E \; (\alpha+2)^{\circ}\; \left(2\cdot\beta\right)\,.\,\left(\frac{\delta-273}{2}\right)
+06-north.svg§N \; \left(\frac{\zeta}{23}-36\right)^{\circ}\; \left(\beta-38\right)\,.\,\left(\delta+178\right)
+06-east.svg§E \; (\alpha-1884)^{\circ}\; \left(\gamma-1900\right)\,.\,\left(\frac{\varepsilon-\alpha}{14}+17\right)
