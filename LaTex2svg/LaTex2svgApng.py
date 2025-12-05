@@ -54,7 +54,7 @@ def latex_formula_to_images(formula: str, output_base: str):
         # DVI → PNG, enger Zuschnitt (-T tight)
         # Optional: Hintergrund transparent machen mit -bg Transparent (falls dein dvipng das unterstützt)
         subprocess.run(
-            ["dvipng", "-T", "tight", "-o", "formula.png", "formula.dvi"],
+            ["dvipng", "-T", "tight","-D", "300", "-o", "formula.png", "formula.dvi"],
             cwd=tmpdir,
             check=True,
         )
