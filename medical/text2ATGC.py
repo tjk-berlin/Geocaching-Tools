@@ -33,7 +33,7 @@ def binary_to_dna(binary_str: str) -> str:
 
 if __name__ == "__main__":
     # --- Inputs ---
-    text = "N 52° 24.839"
+    text = "N52*24.839"
     bin_code = text_to_binary(text)
     dna_seq = binary_to_dna(bin_code)
 
